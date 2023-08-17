@@ -1,6 +1,6 @@
                                                 Hi there 👋, I'm Yogesh Kumar
 
-Have exposure♛ to building professional front-end applications 💻 and Back-end applications. Experienced with a demonstrated history of working in the information technology and services industries🏢 . Skilled in FrontEnd and BackEnd Technologies✍️ as React.js, Redux, EcmaScript, JavaScript, TypeScript, Socket Programming, Serverless development, HTML, CSS, Bootstrap, Flexbox, .GitHub, PHP, SQL.
+Have exposure♛ to building professional full stack applications 💻. Experienced with a demonstrated history of working in the information technology and services industries🏢 . Skilled in FrontEnd and BackEnd Technologies✍️ as React.js, Redux, EcmaScript, JavaScript, TypeScript, Socket Programming, Serverless development, HTML, CSS, Bootstrap, Flexbox, .GitHub, PHP, SQL.
 
 Apart from my professional journey, I am a learner📝 and enthusiastic to learn new tech. I have created 15+ mini & major projects💼 on FullStack(React+Node) and other technologies. Also deployed and having live-hosted projects📽, checkout out my GitHub pages📒.
 
