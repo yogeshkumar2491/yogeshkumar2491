@@ -14,7 +14,7 @@ Also, I play a role as a Tech Panel 📈 at Clavax Technologies apart from my ex
 
 🙋‍♂️ 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗺𝗲:
 
-m-sehrawat
 
 LinkedIn - https://www.linkedin.com/in/yogesh-kumar-644168171/
+
 GitHub - https://github.com/yogeshkumar2491/
